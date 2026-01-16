@@ -7,6 +7,7 @@
 
 # Hello GitHub Actions
 
+test 3
 _Create a GitHub Action and use it in a workflow._
 
 <!--
